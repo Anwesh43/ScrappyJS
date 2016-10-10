@@ -4,9 +4,9 @@
 
 ##Important Components
 ```
-  We create some basic objects like rectangle or circle and define how they move, how they look
-  We create a stage which will the canvas where all the rendering takes place
-  We create Render by passing the stage we have defined above. It will render the objects
+  Create some basic objects like rectangle or circle and define how they move, how they look
+  Create a stage which will the canvas where all the rendering takes place
+  Create a Renderer by passing the stage we have defined above. It will render the objects
 ```
 
 ##To create a stage
