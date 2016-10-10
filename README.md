@@ -1,6 +1,6 @@
 # ScrappyJS
-##A very Scrappy 2d game framework
-###ScrappyJS is a javascript library written to easily create 2d games
+
+##ScrappyJS is a javascript library written to easily create 2d games
 
 ##Important Components
 ```
